@@ -1,5 +1,5 @@
 name: Build for webOS
-on: [push, pull_request]
+on: [pull_request]
 env:
   app_id: inputstream.adaptive
 
