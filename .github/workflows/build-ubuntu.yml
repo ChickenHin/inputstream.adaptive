@@ -1,5 +1,5 @@
 name: Build on Ubuntu
-on: [push, pull_request]
+on: [workflow_dispatch]
 env:
   app_id: inputstream.adaptive
 
